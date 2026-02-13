@@ -423,7 +423,7 @@ For issues or questions:
 1. Check troubleshooting section
 2. Review code comments
 3. Consult Flask/Tailwind documentation
-4. Contact: naveen@example.com
+4. Contact: varmanaveen66@gmail.com
 
 ---
 
